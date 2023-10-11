@@ -1,0 +1,11 @@
+pandas==1.0.3
+#tensorflow==2.4.1
+#numpy==1.19.5
+#Keras==2.4.3
+tqdm==4.47.0
+#scikit-image==0.16.2
+scikit-learn==0.22.1
+#scikit-plot==0.3.7
+#scipy==1.4.1
+matplotlib==3.3.1
+roses==0.3.9
